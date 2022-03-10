@@ -1,0 +1,61 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: rgb(77, 5, 144);
+
+
+}
+.card{
+  background-color: white;
+  width: 450px;
+  height: 550px;
+  text-align: center;
+  padding: 30px;
+  color: antiquewhite;
+
+}
+.card-image{
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+}
+.card-input{
+  width: 95%;
+  height: 50px;
+  margin-top: 30px;
+  padding-left: 16px;
+  color: pink;
+  font-size: 14px;
+
+}
+.card-buttton{
+  width: 450px;
+  height: 50px;
+  background-color: aqua;
+  color: white;
+}
+.card-deck{
+  padding-top: 50px;
+}
+.one{
+  color: black;
+}
+#some p,#somei p {
+  display: none;
+}
+#somes ul{
+  display: none;
+}
+
+.but:hover{
+  border: 2px solid rgb(27, 124, 235);
+  color: rgb(27, 124, 235);
+  
+}
+.but{
+  margin-top: 40px;
+  margin-left:37%;
+}
